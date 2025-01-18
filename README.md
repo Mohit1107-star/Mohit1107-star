@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohit1107-star
 - 👀 I’m interested in Java and Spring MVC
-- 🌱 I’m currently learning Android App developement
+- 🌱 I’m currently learning App developement
 - 💞️ I’m looking to collaborate on above mentioned and any content developement activity
 - 📫 Reach out to me on assudanimohit99@gmail.com
 
