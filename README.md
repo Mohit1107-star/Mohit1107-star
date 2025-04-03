@@ -1,32 +1,29 @@
-👋 Hi, I'm Mohit! 🚀
-Passionate Backend Developer | Spring Boot | Node.js | AWS | Distributed Systems
-🔹 Software Developer at Siemens Healthineers
-🔹 Expert in Java (Spring Boot, .NET), Node.js, AWS, and Scalable Backend Systems
-🔹 Experience in building high-performance APIs handling 2000+ RPS
-🔹 Worked on Cloud Platforms: AWS, GCP, and Azure
+👋 Hi, I'm Mohit! 🚀 <br> <br>
+Passionate Backend Developer | Spring Boot | Node.js | AWS | Distributed Systems <br> <br>
+🔹 Software Developer at Siemens Healthineers <br>
+🔹 Expert in Java (Spring Boot, .NET), Node.js, AWS, and Scalable Backend Systems <br>
+🔹 Experience in building high-performance APIs handling 2000+ RPS <br>
+🔹 Worked on Cloud Platforms: AWS, GCP, and Azure <br>
 
-🛠️ Tech Stack & Expertise
-🔹 Backend: Java (Spring Boot, .NET), Node.js, Python
-🔹 Databases: PostgreSQL, MySQL, DynamoDB, MongoDB
-🔹 Cloud & DevOps: AWS (Lambdas, API Gateway, Cognito, S3), Kubernetes, Docker, Azure DevOps
-🔹 APIs & Microservices: REST, GraphQL, gRPC, Serverless Architectures
-🔹 Testing & Security: JUnit, Mockito, OWASP Security Practices
+🛠️ Tech Stack & Expertise <br><br>
+🔹 Backend: Java (Spring Boot, .NET), Node.js, Python <br>
+🔹 Databases: PostgreSQL, MySQL, DynamoDB, MongoDB <br>
+🔹 Cloud & DevOps: AWS (Lambdas, API Gateway, Cognito, S3), Kubernetes, Docker, Azure DevOps <br>
+🔹 APIs & Microservices: REST, GraphQL, gRPC, Serverless Architectures <br>
+🔹 Testing & Security: JUnit, Mockito, OWASP Security Practices <br>
 
-📌 Projects & Achievements
-🏆 Built scalable APIs in Spring Boot handling 2000+ RPS
-
-🚀 Integrated AI-based spam filtering using Google Gemini 2.0
-
-☁️ Migrated backend monolith to microservices in a cloud-native environment
-
-🔬 Developed data migration APIs & dashboards for healthcare systems
+📌 Projects & Achievements <br>
+🏆 Built scalable APIs in Spring Boot handling 2000+ RPS <br>
+🚀 Integrated AI-based spam filtering using Google Gemini 2.0 <br>
+☁️ Migrated backend monolith to microservices in a cloud-native environment <br>
+🔬 Developed data migration APIs & dashboards for healthcare systems <br>
 
 
-📫 Let's Connect
-🔗 LinkedIn: linkedin.com/in/mohit-assudani
-📧 Email: assudanimohit99@gmail.com
-🚀 GitHub: github.com/Mohit1107-star
-🌱 Portfolio: mohitportfolio.icu
+📫 Let's Connect: <br>
+🔗 LinkedIn: linkedin.com/in/mohit-assudani <br>
+📧 Email: assudanimohit99@gmail.com <br>
+🚀 GitHub: github.com/Mohit1107-star <br>
+🌱 Portfolio: https://mohitportfolio.icu
 
 <!---
 Mohit1107-star/Mohit1107-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
