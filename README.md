@@ -23,7 +23,7 @@ Passionate Backend Developer | Spring Boot | Node.js | AWS | Distributed Systems
 🔗 LinkedIn: linkedin.com/in/mohit-assudani <br>
 📧 Email: assudanimohit99@gmail.com <br>
 🚀 GitHub: github.com/Mohit1107-star <br>
-🌱 Portfolio: https://mohitportfolio.icu
+🌱 Portfolio: https://mohit1107-star.github.io/personal-portfolio/
 
 <!---
 Mohit1107-star/Mohit1107-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
