@@ -20,7 +20,7 @@ Passionate Backend Developer | Spring Boot | Node.js | AWS | Distributed Systems
 
 
 📫 Let's Connect: <br>
-🔗 LinkedIn: linkedin.com/in/mohit-assudani <br>
+🔗 LinkedIn: https://www.linkedin.com/in/mohitassudani99/ <br>
 📧 Email: assudanimohit99@gmail.com <br>
 🚀 GitHub: github.com/Mohit1107-star <br>
 🌱 Portfolio: https://mohit1107-star.github.io/personal-portfolio/
